@@ -1,24 +1,17 @@
-A full-stack Blog Application built using Next.js (App Router), MongoDB, and Mongoose. This app allows users to view blogs, filter by category, and is powered by a RESTful API with secure database connectivity.
+A full-stack Blog Application built using Next.js (App Router), React.js, Node.js, and MongoDB. This app allows users to view blogs, filter them by category, and interact with a dynamic UI powered by a RESTful backend.
 
- Tech Stack
-Frontend: Next.js (App Router, Server Components, Tailwind CSS)
-
-Backend: Next.js API Routes
-
-Database: MongoDB (via Mongoose)
-
-HTTP Client: Axios
-
- Features
-Fetch and display blogs dynamically from MongoDB.
-
-Filter blogs by category.
-
-Responsive UI using Tailwind CSS.
-
-MongoDB connection via Mongoose.
-
-Clean API route setup using the new Next.js App Route
-
- Debasish Das
+Tech Stack
+Technology	Purpose
+Next.js	React framework for SSR & routing
+React.js	Building frontend UI components
+Node.js	JavaScript runtime environment
+MongoDB	NoSQL database
+Mongoose	ODM for MongoDB
+Axios	HTTP client for frontend-backend communication
+Tailwind CSS	Styling the frontend UI🔧 Features
+ Full-stack application with MongoDB database
+ Blog fetching and rendering dynaically
+ Category-based filtering
+ Responsive design with Tailwind CSS
+ Clean project structure using App Router and modern features of Next.js
  
